@@ -1,0 +1,49 @@
+﻿  Game.cpp
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(165,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(168,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(169,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(288,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(289,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(297,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(298,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(405,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(406,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(553,26): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(553,29): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(553,32): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(608,34): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(608,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(608,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(608,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(615,34): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(615,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(615,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(615,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(622,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(622,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(622,53): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(622,53): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(644,94): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(644,94): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(644,111): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(644,111): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(654,35): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(654,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(654,47): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Game.cpp(654,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\Debug\Game.exe
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\libfreetype-6.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\libogg-0.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\libpng16-16.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\libvorbis-0.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\libvorbisfile-3.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\SDL2.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\SDL2_image.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\SDL2_mixer.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\SDL2_ttf.dll
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
+  C:\Users\tongs\OneDrive\Desktop\myProject\mouse-accuracy-training\Game00\\..\external\GLEW\lib\win\x86\glew32.dll
+  1 File(s) copied
