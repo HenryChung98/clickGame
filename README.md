@@ -1,3 +1,17 @@
+### Tech
+- C++
+- SDL
+
+### Sources
+- [Sounds](https://pixabay.com/sound-effects/)
+- [Sprites](https://icons8.com/)
+
+### Features
+- Detect mouse position
+- Generate targets at random positions
+- Background color changes
+- Display score / seconds
+  
 ## Mouse Accuracy Training
 
 #### White square appears ten times at random location, click it as soon as possible.
