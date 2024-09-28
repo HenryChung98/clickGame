@@ -1,4 +1,4 @@
-## Click Game
+## Mouse Accuracy Training
 
 #### White square appears ten times at random location, click it as soon as possible.
 #### If you click background instead of the square or collide with the alien, then the game will be over.
